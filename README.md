@@ -1,4 +1,4 @@
-# Link repository for PyTorch Hands-on Session
+# Link Repository for PyTorch Hands-on Session
 
 [Starter Notebook](https://www.dropbox.com/scl/fi/sotrkm85nwm99ku6lh89d/retina-blood-ves-starter.ipynb?rlkey=63svbnx53f23fnu68v2aphm9s&dl=1)
 
